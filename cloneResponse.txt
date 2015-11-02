@@ -5,3 +5,5 @@ create a new branch and named dev.
 create a new branch is quick and simple
 commit from master branch.
 
+merge with --no-ff.
+
