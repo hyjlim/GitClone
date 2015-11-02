@@ -7,3 +7,5 @@ commit from master branch.
 
 merge with --no-ff.
 
+
+merge with --no-ff.
